@@ -1,0 +1,13 @@
+Model:
+Logistic Regression Model
+
+Parameters and hyperparameters:
+solver = newton-cg
+max_iter = 500
+C = 10
+
+Performance metrics:
+Accuracy: 0.9914529914529915
+Precision: 1.0
+Recall: 0.9438202247191011
+F1 Score: 0.9710982658959537
